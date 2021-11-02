@@ -1,0 +1,29 @@
+.title {
+    color: red;
+    font-size:larger;
+    font-family: futura, helvetica, comic-sans;
+    text-align: center;
+}
+
+.recipe-title{
+    color: black;
+    font-weight: bold;
+    font-family: times-new-roman;
+    text-align: left;
+}
+
+.sub-title{
+    color: darkgreen;
+    font-weight: bold;
+    text-align: left;
+}
+
+.text{
+    color: black;
+    font-family: comic-sans;
+}
+
+.text-step{
+    color: cyan;
+    text-align: left;
+}
